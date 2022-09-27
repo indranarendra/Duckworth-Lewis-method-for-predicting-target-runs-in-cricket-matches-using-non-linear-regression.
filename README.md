@@ -6,5 +6,5 @@
 
 
 # Pipeline for MFCC Feature Extraction
-<img src="https://drive.google.com/file/d/1_t_5cU-zIuLbiAeYMw3n--4ZxrfNEB5o/view?usp=sharing">
+<img src="https://github.com/indranarendra/Duckworth-Lewis-method-for-predicting-target-runs-in-cricket-matches-using-non-linear-regression./blob/main/runs.png">
 
