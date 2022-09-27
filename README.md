@@ -6,4 +6,5 @@
 
 
 # Pipeline for MFCC Feature Extraction
-<img src="https://drive.google.com/uc?export=view&id=1kDcaNcijTuanGWngD3qwFxAYNaw5NCmK">
+<img src="https://drive.google.com/file/d/1_t_5cU-zIuLbiAeYMw3n--4ZxrfNEB5o/view?usp=sharing">
+
